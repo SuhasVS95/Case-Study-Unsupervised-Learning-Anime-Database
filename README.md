@@ -12,6 +12,8 @@ Here, in this case study we have an extensive database consisting of 70,000+ rec
 
 ## Dataset link: https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
+![image](https://user-images.githubusercontent.com/70081663/120812849-002c2e00-c56b-11eb-8da0-1e246b4e835b.png)
+
 ## Tasks Completed:
 
 1. Explanatory Data Analysis(EDA)
