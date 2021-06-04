@@ -19,14 +19,16 @@ Here, in this case study we have an extensive database consisting of 70,000+ rec
 1. Explanatory Data Analysis(EDA)
 
 2. KMeans Clustering
-	2.1 Pre-processing and feature scaling
-	2.2 Finding Optimal 'k' value based on inertia.
-	2.3 Finding Optimal 'k' value based on Silhouette Score.
-	2.4 Profiling the clusters.
+	
+	2.1 Pre-processing and feature scaling.<br>
+	2.2 Finding Optimal 'k' value based on inertia.<br>
+	2.3 Finding Optimal 'k' value based on Silhouette Score.<br>
+	2.4 Profiling the clusters.<br>
 
 3. DBSCAN Clustering
-	3.1 Finding EPS using approxiamation.
-	3.2 Visualize the outlier
+	
+	3.1 Finding EPS using approxiamation.<br>
+	3.2 Visualize the outlier.<br>
 
 4. Principle Component analysis(Dimensionality Reduction)
 
