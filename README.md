@@ -16,7 +16,7 @@ Here, in this case study we have an extensive database consisting of 70,000+ rec
 
 ## Tasks Completed:
 
-1. Explanatory Data Analysis(EDA)
+1. Exploratory Data Analysis(EDA)
 
 2. KMeans Clustering
 	
